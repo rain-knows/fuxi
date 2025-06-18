@@ -1,52 +1,26 @@
-# 编译后的 class 文件
+### Java template
+# Compiled class file
 *.class
 
-# 日志文件
+# Log file
 *.log
 
-# 打包文件
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
 *.jar
 *.war
+*.nar
 *.ear
+*.zip
+*.tar.gz
+*.rar
 
-# Maven
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-release.properties
-
-# Gradle
-.gradle/
-build/
-
-# IntelliJ IDEA
-.idea/
-*.iml
-*.iws
-out/
-
-# Eclipse
-.classpath
-.project
-.settings/
-bin/
-
-# NetBeans
-nbproject/private/
-build/
-nbbuild/
-dist/
-bdist/
-.nb-gradle/
-
-# VS Code
-.vscode/
-
-# 操作系统文件
-.DS_Store
-Thumbs.db
-
-# 虚拟机崩溃日志
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+replay_pid*
 
